@@ -7,3 +7,12 @@
 - Millions of lives could be saved each year by implementing resource-appropriate preventive, early detection, and treatment techniques.
 - One-third of all common cancers are avoidable.
 
+## Target Audience
+- This project's intended audience may include any of the following individuals or groups:
+- Any medical school / institution
+- Any medical student
+- Any analysis student
+- Anyone interested in determining insights into all types of cancer.
+
+## Dataset link: https://www.cancercareontario.ca/en/data-research/view-data/cancer-statistics/ontario-cancer-profiles
+
